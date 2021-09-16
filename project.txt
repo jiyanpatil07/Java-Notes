@@ -1,0 +1,12 @@
+Email client software
+So, why not use your skills to develop an impressive java project based on email system? This project is an email program designed for sending and receiving electronic mail. In the project, you will use the standard sockets and networking along with Java Mail API. There are two main protocols used in the project – SMTP and POP3. This is one of the java projects for beginners. 
+
+Usually, conventional email client software conducts electronic mailing through web browsers like Hotmail, Yahoo, Google, etc. Since these systems use HTTP port 80 to access all the emails, it is not precisely the best means to send sensitive or confidential messages. Hackers can easily hack into the software system and violate or misuse the data.
+
+The project functions something like this – the ISP’s (Internet Service Provider) mail server handles the emails sent from an ISP. All the sent emails first come to the mail server, after which they are processed and forwarded to the collector’s destination where another mail server is located.
+
+The mail server on the collector side receives the incoming emails and sorts them electronically in the inbox. Now, the recipient can use their email application to view the received emails. The entire transaction occurs by directly connecting to the mail server through the program, which makes it much safer than the existing email client software.
+
+Also read: Event Handling in Java
+
+Reference: https://www.upgrad.com/blog/java-project-ideas-topics-for-beginners
